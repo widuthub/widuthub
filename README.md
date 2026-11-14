@@ -18,7 +18,7 @@ Mahasiswa Teknik Informatika yang tertarik pada pengembangan web dan membangun p
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📂 Proyek Unggulan
-- [**Widata Boyolali**](LINK-REPO-ATAU-WEB) - Website informasi dan layanan digital untuk wilayah Boyolali
+- [**Wisata Boyolali**](LINK-REPO-ATAU-WEB) - Website informasi dan layanan digital untuk wilayah Boyolali
 - [**Inventori Gudang STOKKOKOH**](link-repo) -Aplikasi pengelolaan stok barang gudang: pencatatan barang masuk dan keluar serta pemantauan jumlah stok
 ## 📊 GitHub Stats
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=widuthub&show_icons=true&theme=dark)
