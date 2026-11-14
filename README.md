@@ -5,7 +5,7 @@ Mahasiswa Teknik Informatika yang tertarik pada pengembangan web dan membangun p
 ## 🔭 Tentang Saya
 - 🎓 Mahasiswa Teknik Informatika di [Nama Kampus]
 - 🌱 Sedang belajar: HTML, CSS, JavaScript, PHP
-- 💻 Sedang mengerjakan: [nama proyek]
+- 💻 Sedang mengerjakan: Web Sistem Pre-Order Susu Segar Boyolali
 - 🤝 Terbuka untuk kolaborasi proyek web dan open source
 
 ## 🛠️ Tech Stack
@@ -18,13 +18,12 @@ Mahasiswa Teknik Informatika yang tertarik pada pengembangan web dan membangun p
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📂 Proyek Unggulan
-- [**Nama Proyek 1**](link-repo) - deskripsi singkat satu kalimat
-- [**Nama Proyek 2**](link-repo) - deskripsi singkat satu kalimat
-
+- [**Widata Boyolali**](LINK-REPO-ATAU-WEB) - Website informasi dan layanan digital untuk wilayah Boyolali
+- [**Inventori Gudang STOKKOKOH**](link-repo) -Aplikasi pengelolaan stok barang gudang: pencatatan barang masuk dan keluar serta pemantauan jumlah stok
 ## 📊 GitHub Stats
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=widuthub&show_icons=true&theme=dark)
 
 ## 📫 Hubungi Saya
-- Email: emailkamu@gmail.com
-- LinkedIn: [nama kamu](link-linkedin)
-- Instagram: [@username](link-ig)
+- Email: twidayanti006@gmail.com
+- LinkedIn: [widalink_](link-linkedin)
+- Instagram: [@wwwda__](link-ig)
