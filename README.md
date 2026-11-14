@@ -1,30 +1,54 @@
-# Hi, I'm Widut 👋
+<p align="center">
+  <img src="benner.jpg" alt="Banner" width="100%" />
+</p>
 
-Mahasiswa Teknik Informatika yang tertarik pada pengembangan web dan membangun proyek yang bermanfaat.
+<h2 align="center">Hi 👋, I'm Widut</h2>
 
-## 🔭 Tentang Saya
-- 🎓 Mahasiswa Teknik Informatika di Universitas Duta Bangsa
-- 🌱 Sedang belajar: HTML, CSS, JavaScript, PHP
-- 💻 Sedang mengerjakan: Sistem Pre-Order Susu Segar Boyolali
-- 🤝 Terbuka untuk kolaborasi proyek web dan open source
+<p align="center">
+  Membangun aplikasi web yang rapi, fungsional, dan mudah digunakan.
+</p>
 
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+---
 
-## 📂 Proyek Unggulan
-- [**Nama Proyek 1**](link-repo) - deskripsi singkat satu kalimat
-- [**Nama Proyek 2**](link-repo) - deskripsi singkat satu kalimat
+<h2 align="center">🚀 About Me</h2>
 
-## 📊 GitHub Stats
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=widuthub&show_icons=true&theme=dark)
+Mahasiswa **Teknik Informatika** di **Universitas Duta Bangsa** yang fokus pada pengembangan web.
 
-## 📫 Hubungi Saya
-- Email: twidayanti006@gmail.com
-- LinkedIn: [nama kamu](link-linkedin)
-- Instagram: [@wwwda__](link-ig)
+Saya senang membangun aplikasi dari nol, mulai dari tampilan hingga database. Saat ini saya sedang mengerjakan **Sistem Pre-Order Susu Segar Boyolali** dan mendalami **HTML, CSS, JavaScript, PHP, dan MySQL**.
+
+Tujuan saya sederhana: menulis kode yang bersih, membuat software yang bisa diandalkan, dan terus berkembang menjadi software engineer yang baik.
+
+---
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/widuthub"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:twidayanti006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/wwwda__"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
+</p>
+
+---
+
+<h2 align="center">📂 Proyek</h2>
+
+<p align="center">
+  <b>Sistem Pre-Order Susu Segar Boyolali</b><br>
+  Aplikasi web untuk pemesanan susu segar secara pre-order.
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=widuthub&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+</p>
